@@ -6,4 +6,6 @@ try:
 except:
     print("nao foi possivel acessar o seu arquivo")
 else:
+    txt.seek(0)
+    print(txt.read())
     txt.close
