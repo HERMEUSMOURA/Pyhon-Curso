@@ -1,0 +1,4 @@
+Nome do produto: batata atomica
+ - Preço do produto: R$5000.00
+ - Quantidade Vendida: 5
+
